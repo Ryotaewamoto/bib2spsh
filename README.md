@@ -1,5 +1,4 @@
-Acknowledgments: I am grateful to a software developer [brianrabern]
-(https://github.com/brianrabern) for his useful Python script. 
+Acknowledgments: I am grateful to a software developer [brianrabern](https://github.com/brianrabern) for his useful Python script. 
 Without [his works](https://github.com/brianrabern/bib2json), 
 I could not create this tool.
 
