@@ -8,7 +8,7 @@ I could not create this tool.
 
 Bib2SPSH (BibTex To SpreadSheet) is a command tool for writing mathematical article information to spreadsheet. It allows you to share articles you looked with colleagues and your professor.
 
-<img src="bib2spsh.png" width="300">
+<img src="figures/bib2spsh.png" width="300">
 
 ## Features
 
@@ -30,8 +30,7 @@ From [Google Cloud Console](https://console.cloud.google.com/cloud-resource-mana
 activate **Google Sheets API** and **Google Drive API**.
 After that, select APIs and services --> Credentials in your side bar. 
 
-<img src="select_sevice_account.png" width="500">
-
+<img src="figures/select_service_account.png" width="500">
 
 Completing the process, you copy the email address of service account.
 Opening the spreadsheet, you provide the above service account the authority of access.
